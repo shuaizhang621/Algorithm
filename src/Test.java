@@ -7,4 +7,8 @@ public class Test {
         System.out.println(Arrays.toString(testClass.moveZero(input)
         ));
     }
+
+    public static void func() {
+
+    }
 }
