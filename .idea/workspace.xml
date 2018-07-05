@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="373019ed-545a-4d5e-bec7-344ec9e99064" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/LayerTranverse.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/AllSubset.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,16 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="isBalaned2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/isBalaned2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="35" lean-forward="false" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="IsSymmetric.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/IsSymmetric.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -69,11 +59,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LayerTranverse.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LayerTranverse.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LayerTranverse.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            <state relative-caret-position="490">
+              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AllSubset.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/AllSubset.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="5" lean-forward="false" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -176,6 +178,7 @@
         <option value="$PROJECT_DIR$/src/myClass/ListNode.java" />
         <option value="$PROJECT_DIR$/src/IsBipartite.java" />
         <option value="$PROJECT_DIR$/src/LayerTranverse.java" />
+        <option value="$PROJECT_DIR$/src/AllSubset.java" />
       </list>
     </option>
   </component>
@@ -369,12 +372,12 @@
       <option name="presentableId" value="Default" />
       <updated>1527284184637</updated>
       <workItem from="1527284187896" duration="8641000" />
-      <workItem from="1530491400532" duration="2290000" />
+      <workItem from="1530491400532" duration="2758000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10931000" />
+    <option name="totallyTimeSpent" value="11399000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="1028" extended-state="0" />
@@ -753,8 +756,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LayerTranverse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        <state relative-caret-position="490">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AllSubset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="5" lean-forward="false" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
