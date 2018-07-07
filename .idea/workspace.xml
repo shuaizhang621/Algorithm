@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="373019ed-545a-4d5e-bec7-344ec9e99064" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ValidParenthesesI.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/CombinationsOfCoins.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -75,11 +75,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ValidParenthesesI.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ValidParenthesesI.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ValidParenthesesI.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CombinationsOfCoins.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CombinationsOfCoins.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -115,19 +127,6 @@
             <state relative-caret-position="90">
               <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KSmallestInSortedArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/KSmallestInSortedArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#316#322#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -185,6 +184,7 @@
         <option value="$PROJECT_DIR$/src/AllSubset.java" />
         <option value="$PROJECT_DIR$/src/AllPermutation.java" />
         <option value="$PROJECT_DIR$/src/ValidParenthesesI.java" />
+        <option value="$PROJECT_DIR$/src/CombinationsOfCoins.java" />
       </list>
     </option>
   </component>
@@ -378,12 +378,12 @@
       <option name="presentableId" value="Default" />
       <updated>1527284184637</updated>
       <workItem from="1527284187896" duration="8641000" />
-      <workItem from="1530491400532" duration="3678000" />
+      <workItem from="1530491400532" duration="4727000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12319000" />
+    <option name="totallyTimeSpent" value="13368000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="1028" extended-state="0" />
@@ -794,6 +794,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CombinationsOfCoins.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
