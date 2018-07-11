@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="373019ed-545a-4d5e-bec7-344ec9e99064" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/AllPermutationWithDuplicate.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ReverseWord.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,16 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MissingNumberI.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MissingNumberI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/myClass/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -89,7 +79,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AllPermutationWithDuplicate.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AllPermutationWithDuplicate.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AllPermutationWithDuplicate.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="540">
@@ -97,6 +87,16 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReverseWord.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ReverseWord.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -191,6 +191,7 @@
         <option value="$PROJECT_DIR$/src/RemoveCertainChar.java" />
         <option value="$PROJECT_DIR$/src/RemoveSpace.java" />
         <option value="$PROJECT_DIR$/src/AllPermutationWithDuplicate.java" />
+        <option value="$PROJECT_DIR$/src/ReverseWord.java" />
       </list>
     </option>
   </component>
@@ -384,12 +385,12 @@
       <option name="presentableId" value="Default" />
       <updated>1527284184637</updated>
       <workItem from="1527284187896" duration="8641000" />
-      <workItem from="1530491400532" duration="10760000" />
+      <workItem from="1530491400532" duration="10930000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19401000" />
+    <option name="totallyTimeSpent" value="19571000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1680" height="1028" extended-state="0" />
@@ -434,14 +435,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/isBalanced.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/PostOrder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="645">
@@ -874,6 +867,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReverseWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="5" lean-forward="false" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
