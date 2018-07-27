@@ -1,3 +1,10 @@
+import myClass.TreeNode;
+
+import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Queue;
+
 class RightSideView {
   // BFS, when the tree is tall.
   // Time complexity: O(n), Space complexity: O(n)
@@ -19,7 +26,7 @@ class RightSideView {
           q.offer(cur.right);
         }
         if (i == size - 1) {
-          result.add(cur.val);
+          result.add(cur.key);
         }
       }
     }
@@ -39,7 +46,7 @@ class RightSideView {
       return;
     }
     if (result.size() == depth) {
-      result.add(root.val);
+      result.add(root.key);
     }
     rightSideView(root.right, depth + 1, result);
     rightSideView(root.left, depth + 1, result);
