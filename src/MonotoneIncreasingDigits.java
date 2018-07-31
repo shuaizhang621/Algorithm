@@ -1,4 +1,7 @@
 public class MonotoneIncreasingDigits {
+    // LC738
+    // Time: O(n) n is the number of digits.
+    // space: O(n).
     public int monotoneIncreasingDigits(int N) {
         char[] array = Integer.toString(N).toCharArray();
         for (int i = array.length - 1; i > 0; i--) {
